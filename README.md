@@ -1,6 +1,7 @@
 ### Hi there 👋
+ I’m currently working...
+- 🌱 I’m currently learning Jetpack Compose and Flutter 
 
-<!--
 **Adnan4456/Adnan4456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
