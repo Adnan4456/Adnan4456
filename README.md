@@ -15,7 +15,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adnan4456&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p>![](https://github-readme-stats.vercel.app/api?username=Adnan4456&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</p></p><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adnan4456&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan4456&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -38,5 +38,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan4456&show_icons=true&locale=en" alt="adnan4456" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan4456&show_icons=true&locale=en&layout=compact" alt="adnan4456" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan4456&" alt="adnan4456" /></p>
 
