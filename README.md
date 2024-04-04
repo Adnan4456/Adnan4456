@@ -37,5 +37,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan4456&show_icons=true&locale=en" alt="adnan4456" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan4456&show_icons=true&locale=en&layout=compact" alt="adnan4456" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan4456&" alt="adnan4456" /></p>
+
