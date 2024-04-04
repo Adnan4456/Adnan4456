@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adnan Ahmad Khan</h1>
 <h3 align="center">A passionate Mobile Application developer from Germany</h3>
+<h3 align="center">I am doing my master in computer science from TU Clausthal University</h3>
+<h3 align="center">I have done mt bacheors in Computer science from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan4456&label=Profile%20views&color=0e75b6&style=flat" alt="adnan4456" /> </p>
 
