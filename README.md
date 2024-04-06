@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Notes](https://github.com/Adnan4456/NoteBook)
 
-- 🌱 I’m currently learning **KMM**
+- 🌱 I’m currently learning **Jetpack compose**
 
 - 💬 Ask me about **Android and Flutter**
 
