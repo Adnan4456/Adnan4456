@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan4456&label=Profile%20views&color=0e75b6&style=flat" alt="adnan4456" /> </p>
 
-- 🔭 I’m currently working on [Notes](https://github.com/Adnan4456/NoteBook)
+- 🔭 I’m currently working on Canvas
 
 - 🌱 I’m currently learning **Jetpack compose**
 
